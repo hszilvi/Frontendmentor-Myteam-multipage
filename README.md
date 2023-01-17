@@ -21,9 +21,9 @@ This is a solution to the [myteam website challenge on Frontend Mentor](https://
 
 ### Screenshot
 
-![](./starter-code/images/Screenshot-desktop.png)
-![](./starter-code/images/Screenshot-mobile-contact.png)
-![](./starter-code/images/Screenshot-mobile.png)
+![](./images/Screenshot-desktop.png)
+![](./images/Screenshot-mobile-contact.png)
+![](./images/Screenshot-mobile.png)
 
 ### Links
 
