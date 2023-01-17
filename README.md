@@ -27,8 +27,8 @@ This is a solution to the [myteam website challenge on Frontend Mentor](https://
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/myteam-multipage-website-uLTyXFq_Z_)
+- Live Site URL: (https://jade-otter-3845fb.netlify.app/)
 
 ## My process
 
